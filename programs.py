@@ -1,0 +1,6 @@
+print("kafia loves python\n")
+print("Kafia is learning python\n")
+print("I study at Lords College.\t Himayatsagar")
+print("hello\\ i am a student\\")
+print("\"I love python\"")
+print("\'ilovepython\'")
